@@ -1703,9 +1703,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f54bf688bec86e0409a27f72dfbbd973, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  redLight: {fileID: 1114026549}
-  yellowLight: {fileID: 282429939}
-  greenLight: {fileID: 1696952498}
+  redLight: {fileID: 1114026551}
+  yellowLight: {fileID: 282429941}
+  greenLight: {fileID: 1696952499}
   totalCycleDuration: 3
   uiCountDown: {fileID: 2100125625}
 --- !u!65 &1027749292
